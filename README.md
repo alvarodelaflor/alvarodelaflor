@@ -1,4 +1,4 @@
-<h1> Hi, I'm Álvaro de la Flor!</h1>
+# Hi, I'm Álvaro de la Flor! <img alt="hi" width=25 src="img/hi.gif"/>
 
 ### *Educational background*
 
@@ -28,7 +28,10 @@ const alvaro = {
   definition: "The present is theirs; the future, for which I really worked, is mine"
 }
 ```
+### *Profile info*  
 
-![dino](dino.gif)
+[![Alvaro's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvarodelaflor)](https://github.com/alvarodelaflor/)
+
+![dino](img/dino.gif)
 
 ---
