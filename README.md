@@ -1,16 +1,34 @@
-### Hi there 👋
+<h1> Hi, I'm Álvaro de la Flor!</h1>
 
-<!--
-**alvarodelaflor/alvarodelaflor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### *Educational background*
 
-Here are some ideas to get you started:
+<p><img src="https://www.gbif.es/wp-content/uploads/2007/08/Departamento-Biologia-Vegetal-y-Ecologia-Universidad-de-Sevilla-1.png" width="30"><em> Software Enginner at <a href="http://www.us.es">University of Sevilla</a></br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><img src="https://1000marcas.net/wp-content/uploads/2019/12/UGR-Logo.png" width="30"><em> Official Master's Degree in Computer Engineering at <a href="http://www.ugr.es">University of Granada</a></br>
+
+### *Contact information*
+
+[![Twitter: alvar017](https://img.shields.io/twitter/follow/alvar017?style=social)](https://twitter.com/alvar017)
+[![Linkedin: alvarodelaflor](https://img.shields.io/badge/-alvarodelaflor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alvarodelaflor/)](https://www.linkedin.com/in/alvarodelaflor/)
+[![GitHub Thaiane](https://img.shields.io/github/followers/alvarodelaflor?label=follow&style=social)](https://github.com/alvarodelaflor)
+[![MyWeb](https://img.shields.io/badge/Personal%20Website-alvarodelaflor.com-blue)](https://www.alvarodelaflor.com)
+
+
+### *A little more about me...*  
+
+```javascript
+const alvaro = {
+  code: [Java, Javascript, Typescript, HTML, CSS, Scala, Python, Java],
+  tools: [Angular, Django, Node, Styled-Components, Docker],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  languages: {
+                        spanish: "native",
+                        english: "professional competence",
+                      },
+ definition: "The present is theirs; the future, for which I really worked, is mine"
+}
+```
+
+
+
+---
