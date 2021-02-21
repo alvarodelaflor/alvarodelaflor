@@ -8,10 +8,10 @@
 
 ### *Contact information*
 
-[![Twitter: alvar017](https://img.shields.io/twitter/follow/alvar017?style=social)](https://twitter.com/alvar017)
 [![Linkedin: alvarodelaflor](https://img.shields.io/badge/-alvarodelaflor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alvarodelaflor/)](https://www.linkedin.com/in/alvarodelaflor/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/alvarodelaflor?label=follow&style=social)](https://github.com/alvarodelaflor)
 [![MyWeb](https://img.shields.io/badge/Personal%20Website-alvarodelaflor.com-blue)](https://www.alvarodelaflor.com)
+[![Twitter: alvar017](https://img.shields.io/twitter/follow/alvar017?style=social)](https://twitter.com/alvar017)
+[![GitHub Thaiane](https://img.shields.io/github/followers/alvarodelaflor?label=follow&style=social)](https://github.com/alvarodelaflor)
 
 
 ### *A little more about me...*  
@@ -25,10 +25,10 @@ const alvaro = {
                         spanish: "native",
                         english: "professional competence",
                       },
- definition: "The present is theirs; the future, for which I really worked, is mine"
+  definition: "The present is theirs; the future, for which I really worked, is mine"
 }
 ```
 
-
+![dino](dino.gif)
 
 ---
