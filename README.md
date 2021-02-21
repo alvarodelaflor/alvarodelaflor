@@ -4,7 +4,7 @@
 
 <p><img src="https://www.gbif.es/wp-content/uploads/2007/08/Departamento-Biologia-Vegetal-y-Ecologia-Universidad-de-Sevilla-1.png" width="30"><em> Software Enginner at <a href="http://www.us.es">University of Sevilla</a></br>
 
-<p><img src="https://1000marcas.net/wp-content/uploads/2019/12/UGR-Logo.png" width="30"><em> Official Master's Degree in Computer Engineering at <a href="http://www.ugr.es">University of Granada</a></br>
+<p><img src="https://i1.wp.com/alumaasociacion.com/wp-content/uploads/2014/07/logo-de-la-ugr.png?fit=847%2C793&ssl=1" width="30"><em> Official Master's Degree in Computer Engineering at <a href="http://www.ugr.es">University of Granada</a></br>
 
 ### *Contact information*
 
