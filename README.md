@@ -10,6 +10,7 @@
 
 [![Linkedin: alvarodelaflor](https://img.shields.io/badge/-alvarodelaflor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alvarodelaflor/)](https://www.linkedin.com/in/alvarodelaflor/)
 [![MyWeb](https://img.shields.io/badge/Personal%20Website-alvarodelaflor.com-blue)](https://www.alvarodelaflor.com)
+[![paypal.me/alvarodelaflor](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/alvarodelaflor)
 [![Twitter: alvar017](https://img.shields.io/twitter/follow/alvar017?style=social)](https://twitter.com/alvar017)
 [![GitHub Thaiane](https://img.shields.io/github/followers/alvarodelaflor?label=follow&style=social)](https://github.com/alvarodelaflor)
 
