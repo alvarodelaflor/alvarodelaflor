@@ -18,7 +18,7 @@
 
 ```javascript
 const alvaro = {
-  code: [Java, Javascript, Typescript, HTML, CSS, Scala, Python, Java],
+  code: [Java, Javascript, Typescript, HTML, CSS, Scala, Python],
   tools: [Angular, Django, Node, Styled-Components, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
   languages: {
@@ -30,8 +30,20 @@ const alvaro = {
 ```
 ### *Profile info*  
 
-[![Alvaro's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvarodelaflor)](https://github.com/alvarodelaflor/)
+<a href="https://github.com/alvarodelaflor">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alvarodelaflor&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Alvaro's GitHub stats" />
+</a>
 
-![dino](img/dino.gif)
+<a href="https://github.com/alvarodelaflor">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alvarodelaflor" alt="Alvaro's GitHub stats" />
+</a>
+
+<a href="https://github.com/alvarodelaflor">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=alvarodelaflor" alt="Alvaro's GitHub stats" />
+</a>
 
 ---
+
+<a href="https://github.com/alvarodelaflor">
+  <img align="center" src="img/dino.gif" alt="Dino" />
+</a>
