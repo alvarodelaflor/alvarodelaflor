@@ -33,14 +33,12 @@ const alvaro = {
 <table width="100%">
   <tr>
     <td width="50%">
-      <p align="center">Now I am listening:</p>
       <a href="https://open.spotify.com/user/1184303827">
         <img align="center" src="https://alvarodelaflor-ecjznbi1h-alvarodelaflor.vercel.app/api/spotify" alt="Spotify" />
       </a>
     </td>
     <td width="50%">
     <br>
-      <p align="center">My week!</p>
       <a href="https://wakatime.com/@alvarodelaflor">
         <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=alvarodelaflor&v=2" alt="Alvaro's GitHub stats" />
       </a>

@@ -97,7 +97,7 @@ def makeSVG(data):
         currentStatus = "Was playing:"
         recentPlays = recentlyPlayed()
         recentPlaysLength = len(recentPlays["items"])
-        itemIndex = random.randint(0, recentPlaysLength - 1)
+        itemIndex = recentPlaysLength - 1
         item = recentPlays["items"][itemIndex]["track"]
     else:
         item = data["item"]
