@@ -1,4 +1,4 @@
-#  <img alt="hi" width=100 src="img/hi.gif"/>Hi, I'm Álvaro de la Flor!
+<h1 align="center"> Hey 👋🏽, I'm Álvaro de la Flor </h1>
 
 ### *Educational background*
 
@@ -50,11 +50,11 @@ const alvaro = {
 ### *Profile info*  
 
 <a href="https://github.com/alvarodelaflor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alvarodelaflor&show_icons=true&title_color=151515&icon_color=79ff97&text_color=9f9f9f&bg_color=fff" alt="Alvaro's GitHub stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alvarodelaflor&show_icons=true&hide_border=true" alt="Alvaro's GitHub stats" />
 </a>
 
 <a href="https://github.com/alvarodelaflor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alvarodelaflor&show_icons=true&title_color=151515&icon_color=79ff97&text_color=9f9f9f&bg_color=fff" alt="Alvaro's GitHub stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvarodelaflor&show_icons=true&layout=compact&hide_border=true" alt="Alvaro's GitHub stats" />
 </a>
 
 ---
