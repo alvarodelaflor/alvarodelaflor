@@ -34,7 +34,7 @@ const alvaro = {
   <tr>
     <td width="50%">
       <a href="https://open.spotify.com/user/1184303827">
-        <img align="center" src="https://alvarodelaflor-ecjznbi1h-alvarodelaflor.vercel.app/api/spotify" alt="Spotify" />
+        <img align="center" src="https://alvarodelaflor-4x3hounue-alvarodelaflor.vercel.app/api/spotify" alt="Spotify" />
       </a>
     </td>
     <td width="50%">
