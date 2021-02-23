@@ -1,4 +1,4 @@
-# Hi, I'm Álvaro de la Flor! <img alt="hi" width=100 src="img/hi.gif"/>
+#  <img alt="hi" width=100 src="img/hi.gif"/>Hi, I'm Álvaro de la Flor!
 
 ### *Educational background*
 
