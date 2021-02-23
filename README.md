@@ -1,12 +1,6 @@
 <h1 align="center"> Hey 👋🏽, I'm Álvaro de la Flor </h1>
 
-### *Educational background*
 
-<p><img src="https://www.gbif.es/wp-content/uploads/2007/08/Departamento-Biologia-Vegetal-y-Ecologia-Universidad-de-Sevilla-1.png" width="30"><em> Software Enginner at <a href="http://www.us.es">University of Sevilla</a></br>
-
-<p><img src="img/UGR-Logo.png" width="30"><em> Official Master's Degree in Computer Engineering at <a href="http://www.ugr.es">University of Granada</a></br>
-
-### *Contact*
 
 [![Linkedin: alvarodelaflor](https://img.shields.io/badge/-alvarodelaflor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alvarodelaflor/)](https://www.linkedin.com/in/alvarodelaflor/)
 [![MyWeb](https://img.shields.io/badge/Personal%20Website-alvarodelaflor.com-blue)](https://www.alvarodelaflor.com)
