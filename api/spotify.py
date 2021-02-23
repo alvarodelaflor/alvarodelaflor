@@ -97,7 +97,7 @@ def makeSVG(data):
         currentStatus = "Last song played:"
         recentPlays = recentlyPlayed()
         recentPlaysLength = len(recentPlays["items"])
-        itemIndex = recentPlaysLength - 1
+        itemIndex = 0
         item = recentPlays["items"][itemIndex]["track"]
     else:
         item = data["item"]
