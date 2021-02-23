@@ -1,13 +1,24 @@
 <h1 align="center"> Hey 👋🏽, I'm Álvaro de la Flor </h1>
 
+<div align="center">
+    <a href="https://www.linkedin.com/in/alvarodelaflor/7">
+      <img align="center" src="https://img.shields.io/badge/-alvarodelaflor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alvarodelaflor/" alt="LinkedIn" />
+    </a>
+    <a href="https://www.alvarodelaflor.com">
+      <img align="center" src="https://img.shields.io/badge/Personal%20Website-alvarodelaflor.com-blue" alt="Personal Website" />
+    </a>
+    <a href="https://www.paypal.me/alvarodelaflor">
+      <img align="center" src="https://ionicabizau.github.io/badges/paypal.svg" alt="PayPal" />
+    </a>
+    <a href="https://twitter.com/alvar017">
+      <img align="center" src="https://img.shields.io/twitter/follow/alvar017?style=social" alt="Twitter" />
+    </a>
+    <a href="https://github.com/alvarodelaflor">
+      <img align="center" src="https://img.shields.io/github/followers/alvarodelaflor?label=follow&style=social" alt="GitHub" />
+    </a>
+</div>
 
-
-[![Linkedin: alvarodelaflor](https://img.shields.io/badge/-alvarodelaflor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alvarodelaflor/)](https://www.linkedin.com/in/alvarodelaflor/)
-[![MyWeb](https://img.shields.io/badge/Personal%20Website-alvarodelaflor.com-blue)](https://www.alvarodelaflor.com)
-[![paypal.me/alvarodelaflor](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/alvarodelaflor)
-[![Twitter: alvar017](https://img.shields.io/twitter/follow/alvar017?style=social)](https://twitter.com/alvar017)
-[![GitHub Thaiane](https://img.shields.io/github/followers/alvarodelaflor?label=follow&style=social)](https://github.com/alvarodelaflor)
-
+</br>
 
 ### *A little more about me...*  
 
