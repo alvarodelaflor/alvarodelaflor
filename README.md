@@ -41,8 +41,8 @@ const alvaro = {
     <td width="50%">
     <br>
       <p align="center">My week!</p>
-      <a href="https://github.com/alvarodelaflor">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=alvarodelaflor" alt="Alvaro's GitHub stats" />
+      <a href="https://wakatime.com/@alvarodelaflor">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=alvarodelaflor&v=2" alt="Alvaro's GitHub stats" />
       </a>
       </p>
     </td>
