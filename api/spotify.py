@@ -19,7 +19,7 @@ SPOTIFY_REFRESH_TOKEN = os.getenv("SPOTIFY_REFRESH_TOKEN")
 REFRESH_TOKEN_URL = "https://accounts.spotify.com/api/token"
 NOW_PLAYING_URL = "https://api.spotify.com/v1/me/player/currently-playing"
 RECENTLY_PLAYING_URL = (
-    "https://api.spotify.com/v1/me/player/recently-played?limit=2"
+    "https://api.spotify.com/v1/me/player/recently-played?limit=10"
 )
 
 app = Flask(__name__)
@@ -97,8 +97,7 @@ def makeSVG(data):
         currentStatus = "Nothing now, but recently:"
         recentPlays = recentlyPlayed()
         recentPlaysLength = len(recentPlays["items"])
-        #itemIndex = random.randint(0, recentPlaysLength)
-        itemIndex = 1
+        itemIndex = random.randint(0, recentPlaysLength)
         item = recentPlays["items"][itemIndex]["track"]
     else:
         item = data["item"]
