@@ -52,11 +52,11 @@ const alvaro = {
 ### *Profile info*  
 
 <a href="https://github.com/alvarodelaflor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alvarodelaflor&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Alvaro's GitHub stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alvarodelaflor&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Alvaro's GitHub stats" />
 </a>
 
 <a href="https://github.com/alvarodelaflor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alvarodelaflor" alt="Alvaro's GitHub stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alvarodelaflor&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Alvaro's GitHub stats" />
 </a>
 
 ---
