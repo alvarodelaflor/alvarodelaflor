@@ -24,13 +24,17 @@
 
 ```javascript
 const alvaro = {
+  studies: {
+                UniversityOfSeville: "Computer Engineering - Software Engineering" 
+                UniversityOfGranada: "Official Master's Degree in Computer Engineering"
+  },
   code: [Java, Javascript, Typescript, HTML, CSS, Scala, Python],
   tools: [Angular, Django, Node, Styled-Components, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
   languages: {
                 spanish: "native",
                 english: "professional competence"
-             },
+  },
   definition: "The present is theirs; the future, for which I really worked, is mine"
 }
 ```
