@@ -25,7 +25,7 @@
 ```javascript
 const alvaro = {
   studies: {
-                UniversityOfSeville: "Computer Engineering - Software Engineering" 
+                UniversityOfSeville: "Computer Engineering - Software Engineering",
                 UniversityOfGranada: "Official Master's Degree in Computer Engineering"
   },
   code: [Java, Javascript, Typescript, HTML, CSS, Scala, Python],
