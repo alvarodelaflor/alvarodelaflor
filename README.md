@@ -58,7 +58,6 @@ const alvaro = {
 </a>
 
 ---
-
-<a href="https://github.com/alvarodelaflor">
-  <img align="center" src="img/dino.gif" alt="Dino" />
-</a>
+<p align="center">
+  <img src="img/dino.gif" alt="Dino" />
+</p>
