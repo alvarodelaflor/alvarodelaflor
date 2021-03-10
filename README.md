@@ -42,16 +42,15 @@ const alvaro = {
 <table width="100%">
   <tr>
     <td width="50%">
-      <a href="https://open.spotify.com/user/1184303827">
-        <img align="center" src="https://alvarodelaflor-alvarodelaflor.vercel.app/api/spotify" alt="Spotify" />
-      </a>
+      <p align="center">
+        <img src="https://alvarodelaflor-alvarodelaflor.vercel.app/api/spotify" href="https://open.spotify.com/user/1184303827?si=YyzPrICtRg-eIyfA4t7aaw" alt="Dino" />
+      </p>
     </td>
     <td width="50%">
     <br>
-      <a href="https://wakatime.com/@alvarodelaflor">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=alvarodelaflor&v=2" alt="Alvaro's GitHub stats" />
-      </a>
-      </p>
+    <p align="center">
+      <img src="img/code.gif" alt="Dino" />
+    </p>
     </td>
   </tr>
 </table>
