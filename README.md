@@ -42,9 +42,9 @@ const alvaro = {
 <table width="100%">
   <tr>
     <td width="50%">
-      <p align="center">
-        <img src="https://alvarodelaflor-alvarodelaflor.vercel.app/api/spotify" href="https://open.spotify.com/user/1184303827?si=YyzPrICtRg-eIyfA4t7aaw" alt="Dino" />
-      </p>
+      <a align="center" href="https://open.spotify.com/user/1184303827?si=YyzPrICtRg-eIyfA4t7aaw">
+        <img src="https://alvarodelaflor-alvarodelaflor.vercel.app/api/spotify" alt="Dino" />
+      </a>
     </td>
     <td width="50%">
     <br>
