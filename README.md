@@ -1,31 +1,40 @@
-# Hi, I'm Álvaro de la Flor! <img alt="hi" width=100 src="img/hi.gif"/>
+<h1 align="center"> Hey 👋🏽, I'm Álvaro de la Flor </h1>
 
-### *Educational background*
+<div align="center">
+    <a target="_blank" href="https://www.linkedin.com/in/alvarodelaflor/7">
+      <img align="center" src="https://img.shields.io/badge/-alvarodelaflor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alvarodelaflor/" alt="LinkedIn" />
+    </a>
+    <a target="_blank" href="https://www.alvarodelaflor.com">
+      <img align="center" src="https://img.shields.io/badge/Personal%20Website-alvarodelaflor.com-blue" alt="Personal Website" />
+    </a>
+    <a target="_blank" href="https://www.paypal.me/alvarodelaflor">
+      <img align="center" src="https://ionicabizau.github.io/badges/paypal.svg" alt="PayPal" />
+    </a>
+    <a target="_blank" href="https://twitter.com/alvar017">
+      <img align="center" src="https://img.shields.io/twitter/follow/alvar017?style=social" alt="Twitter" />
+    </a>
+    <a target="_blank" href="https://github.com/alvarodelaflor">
+      <img align="center" src="https://img.shields.io/github/followers/alvarodelaflor?label=follow&style=social" alt="GitHub" />
+    </a>
+</div>
 
-<p><img src="https://www.gbif.es/wp-content/uploads/2007/08/Departamento-Biologia-Vegetal-y-Ecologia-Universidad-de-Sevilla-1.png" width="30"><em> Software Enginner at <a href="http://www.us.es">University of Sevilla</a></br>
-
-<p><img src="img/UGR-Logo.png" width="30"><em> Official Master's Degree in Computer Engineering at <a href="http://www.ugr.es">University of Granada</a></br>
-
-### *Contact*
-
-[![Linkedin: alvarodelaflor](https://img.shields.io/badge/-alvarodelaflor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alvarodelaflor/)](https://www.linkedin.com/in/alvarodelaflor/)
-[![MyWeb](https://img.shields.io/badge/Personal%20Website-alvarodelaflor.com-blue)](https://www.alvarodelaflor.com)
-[![paypal.me/alvarodelaflor](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/alvarodelaflor)
-[![Twitter: alvar017](https://img.shields.io/twitter/follow/alvar017?style=social)](https://twitter.com/alvar017)
-[![GitHub Thaiane](https://img.shields.io/github/followers/alvarodelaflor?label=follow&style=social)](https://github.com/alvarodelaflor)
-
+</br>
 
 ### *A little more about me...*  
 
 ```javascript
 const alvaro = {
+  studies: {
+                UniversityOfSeville: "Computer Engineering - Software Engineering",
+                UniversityOfGranada: "Official Master's Degree in Computer Engineering"
+  },
   code: [Java, Javascript, Typescript, HTML, CSS, Scala, Python],
   tools: [Angular, Django, Node, Styled-Components, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
   languages: {
                 spanish: "native",
                 english: "professional competence"
-             },
+  },
   definition: "The present is theirs; the future, for which I really worked, is mine"
 }
 ```
@@ -50,11 +59,11 @@ const alvaro = {
 ### *Profile info*  
 
 <a href="https://github.com/alvarodelaflor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alvarodelaflor&show_icons=true&title_color=151515&icon_color=79ff97&text_color=9f9f9f&bg_color=fff" alt="Alvaro's GitHub stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alvarodelaflor&show_icons=true&hide_border=true" alt="Alvaro's GitHub stats" />
 </a>
 
 <a href="https://github.com/alvarodelaflor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alvarodelaflor&show_icons=true&title_color=151515&icon_color=79ff97&text_color=9f9f9f&bg_color=fff" alt="Alvaro's GitHub stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvarodelaflor&show_icons=true&layout=compact&hide_border=true" alt="Alvaro's GitHub stats" />
 </a>
 
 ---
