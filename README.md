@@ -43,7 +43,7 @@ const alvaro = {
   <tr>
     <td width="50%">
     <p align="center">
-      <img src="img/work.gif" alt="Work" />
+      <img src="img/work_code.gif" alt="Work" />
     </p>
     </td>
     <td width="50%">
